@@ -1,7 +1,7 @@
 <h1 align="center">Hi :wave:, I'm Frost</h1>
 <h3 align="center">I mostly build web apps, but I work on other things too when needed.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=fr0stiwnl&label=Profile%20views&color=0e75b6&style=flat" alt="fr0stiwnl" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=fr0stiwnl&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
 <div align="left">
   <h3 style="color: #1E90FF;">You can reach me on:</h3>
